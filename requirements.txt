@@ -1,0 +1,21 @@
+## Required libries for Climate Data Modeling
+
+# Jupyter Environment
+ipykernel
+notebook
+
+# Data Manipulation and Visualization
+pandas
+numpy
+matplotlib
+
+# Time Series
+pmdarima
+statsmodels
+scikit-learn
+
+
+# Machine Learning (NN and Regression)
+torch
+
+
