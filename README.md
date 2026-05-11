@@ -1,4 +1,4 @@
-# Climate-Data-Project
+# Climate Data Project
 This study evaluates the predictive effectiveness of modern machine learning models against classical temporal models (SARIMA) on global temperatures. Bootstrap resampling and Forward-Chaining Cross-Validation will be utilized in constructing confidence intervals to assess model predictability and stability. 
 
 The study will use the Goddard Institute for Space Studies Surface Temperature Analysis (GISTEMP v4) dataset developed by NASA. This dataset contains the averaged land-surface air and sea-surface water temperature anomalies (Land-Ocean Temperature Index, L-OTI), measured in Celsius relative to the 1951 – 1980 baseline. 
