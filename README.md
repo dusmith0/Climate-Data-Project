@@ -17,9 +17,9 @@ We evaluate the predictive performance and uncertainty of classical and modern m
 |SARIMA (Baseline Comparator) | Provides a traditional time-series benchmark that is often used for this kind of climate modeling. | Seasonal ARIMA; autoregressive and moving average terms. | Serves as a reference model to evaluate whether machine learning methods yield lower MSE and improved uncertainty handling. |
 
 ### Conclution
-<img width="541" height="372" alt="image" src="https://github.com/user-attachments/assets/da58052c-9424-4eb6-b8b7-b7425bf73786" />
-
-<img width="541" height="372" alt="image" src="https://github.com/user-attachments/assets/b2d1bcb5-ddee-4c61-b1b4-7181d4ef919d" />
+|---|---|
+|MSE over Bootstrapped k-crossvalidation|Bootstrapped Confidence Intervals|
+|<img width="541" height="372" alt="image" src="https://github.com/user-attachments/assets/da58052c-9424-4eb6-b8b7-b7425bf73786" />|<img width="541" height="372" alt="image" src="https://github.com/user-attachments/assets/b2d1bcb5-ddee-4c61-b1b4-7181d4ef919d" />|
 
 
 
